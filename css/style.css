@@ -2,6 +2,10 @@ body{
   background-color: #EAFDFC;
 }
 
+h1, h3{
+  color: #82AAE3;
+}
+
 .no-decorations a{
      text-decoration: none;
      color: inherit;
