@@ -1,0 +1,18 @@
+body{
+  background-color: #EAFDFC;
+}
+
+.no-decorations a{
+     text-decoration: none;
+     color: inherit;
+ }
+
+hr{
+  border-style: none;
+  border-top: 5px dotted #82AAE3;
+  width: 3%;
+}
+
+.no-decorations{
+  text-decoration: none;
+}
